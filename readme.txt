@@ -1,3 +1,2 @@
-on control system.
-Git is free software.
-It is useful
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
